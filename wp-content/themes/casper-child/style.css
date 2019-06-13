@@ -1,0 +1,15 @@
+/*
+Theme Name: Casper Child
+Theme URI: https://github.com/lacymorrow/casper-wp
+Description: Casper Child Theme
+Author: Lacy Morrow
+Author URI: http://lacymorrow.com
+Template: casper
+Version: 1.1.0
+Tags: responsive-layout, black, white, one-column, fluid-layout, custom-
+header, custom-menu, editor-style */
+
+@import url("../casper/style.css");
+
+/* =Aquí empieza la personalización de tu tema
+-------------------------------------------------------------- */
